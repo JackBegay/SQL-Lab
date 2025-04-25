@@ -15,8 +15,6 @@ I was tasked with using the SQL injection technique on a browser made for testin
 
 ## Steps
 
-![image](https://github.com/user-attachments/assets/ef942d25-2047-4227-be21-8343895b8537)
-
 ![Screenshot 2025-04-21 175020](https://github.com/user-attachments/assets/5b3dd4e6-2a58-4935-98a3-036e40c4b8c3)
 ![Screenshot 2025-04-21 175320](https://github.com/user-attachments/assets/35e92094-e315-4739-bd20-74ac79076b40)
 ![Screenshot 2025-04-21 175349](https://github.com/user-attachments/assets/b131ce81-87b3-442d-9fa5-735452124e3a)
