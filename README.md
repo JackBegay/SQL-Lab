@@ -1,12 +1,17 @@
 # SQL-Lab
 
 ## Objective
-[Brief Objective 
+I was tasked with using the SQL injection technique on a browser made for testing only. I had to utilize the sign in page to find any weaknesses and expose them. The site I was testing on is below in the image.
+![image](https://github.com/user-attachments/assets/ef942d25-2047-4227-be21-8343895b8537)
 
 ### Skills Learned
-
+-Knowledge on completing SQL injections
+-Ability to spot vunerabilities on sites for injection
+-Ways to prevent attacks like this in the code
 
 ### Tools Used
+-A website made specifically for testing
+
 
 ## Steps
 
